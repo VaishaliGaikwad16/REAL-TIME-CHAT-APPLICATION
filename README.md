@@ -39,3 +39,8 @@ The chat UI was styled using CSS to make it neat and user-friendly. It includes 
 This task helped in understanding how real-time apps like chat messengers actually work behind the scenes. It showed how a server sends and receives messages, and how the front-end updates immediately without delay.
 
 Overall, this project gives a basic but clear idea of how to build a real-time web app where users can communicate instantly. 
+
+
+
+#OUTPUT-
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/38770cf6-95cd-42be-9578-a06d69930387" />
